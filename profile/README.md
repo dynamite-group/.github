@@ -12,7 +12,7 @@ Planktonic organisms secreting a calcium carbonate (CaCO3) shell play a **key, m
 
 Aragonite is produced in modern oceans by pteropods, heteropods and janthinids, groups of pelagic snails, but the magnitude of this production is not quantified. For example, published estimates of aragonite’s contribution to global CaCO3 production in the modern ocean cover a very wide range, from 1% to 98%. Furthermore, the spatial distribution of aragonite production is unknown. This project aims to remedy this by bringing together an international group of scientists. Together, these experts will synthesize and compile a unique and comprehensive database to **reveal the dynamics of aragonite shell production and export in the world ocean today and over recent decades**.
 
-**FARsex** is led by [**Olivier SULPIS**](https://www.cerege.fr/fr/cerege/olivier-sulpis/) (CEREGE, France) and [**Julie MEILLAND**](https://www.cerege.fr/fr/cerege/julie-meilland/) (CEREGE, France) and include:
+**Dynamite** is led by [**Olivier SULPIS**](https://www.cerege.fr/fr/cerege/olivier-sulpis/) (CEREGE, France) and [**Julie MEILLAND**](https://www.cerege.fr/fr/cerege/julie-meilland/) (CEREGE, France) and include:
 
 <table>
   <tr>
