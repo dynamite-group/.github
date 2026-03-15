@@ -4,7 +4,7 @@
 
 <br>
 
-![](dynamite-banner.png)
+![](logo-CESAB.png)
 
 <br>
 
@@ -19,5 +19,73 @@ Aragonite is produced in modern oceans by pteropods, heteropods and janthinids, 
     <td><b>Member</b></td>
     <td><b>Affiliation</b></td>
   </tr>
+<tr>
+    <td>Nina Bednarsek</td>
+    <td>Oregon State Univ. (USA)</td>
+</tr>
+<tr>
+    <td>Fabio Benedetti</td>
+    <td>Univ. Bern (Switzerland)</td>
+</tr>
+<tr>
+    <td>Nicolas Casajus</td>
+    <td>FRB-CESAB (France)</td>
+</tr>
+<tr>
+    <td>Sonia Chaabane</td>
+    <td>CEREGE (France)</td>
+</tr>
+<tr>
+    <td>Thomas Chalk</td>
+    <td>CEREGE (France)</td>
+</tr>
+<tr>
+    <td>William Gray</td>
+    <td>IPSL (France)</td>
+</tr>
+<tr>
+    <td>Ben Gustafson</td>
+    <td>Heriot Watt Univ. (UK)</td>
+</tr>
+<tr>
+    <td>Nina Keul</td>
+    <td>Christian Albrechts Univ. (Germany)</td>
+</tr>
+<tr>
+    <td>Laura Khim</td>
+    <td>CEREGE (France)</td>
+</tr>
+<tr>
+    <td>Amy Maas</td>
+    <td>Arizona State Univ. (USA)</td>
+</tr>
+<tr>
+    <td>Clara Manno</td>
+    <td>British Antarctic Survey (UK)</td>
+</tr>
+<tr>
+    <td>Maria Moreno</td>
+    <td>Univ. Autónoma de Nayarit (Mexico)</td>
+</tr>
+<tr>
+    <td>Mark Ohman</td>
+    <td>Univ. of California San Diego (USA)</td>
+</tr>
+<tr>
+    <td>Katja Peijnenburg</td>
+    <td>Univ. of Amsterdam (The Netherlands)</td>
+</tr>
+<tr>
+    <td>Ralf Schiebel</td>
+    <td>Max Planck Institute (Germany)</td>
+</tr>
+<tr>
+    <td>Deborah Wall-Palmer</td>
+    <td>Naturalis Biodiversity Center (The Netherlands)</td>
+</tr>
+<tr>
+    <td>Patrizia Ziveri</td>
+    <td>Universitat Autònoma de Barcelona (Spain)</td>
+</tr>
 </table>
 
