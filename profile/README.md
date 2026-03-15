@@ -4,7 +4,7 @@
 
 <br>
 
-![](logo-CESAB.png)
+<img src="logo-CESAB.png" style="height:100px;" height="100"/>
 
 <br>
 
